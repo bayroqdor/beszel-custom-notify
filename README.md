@@ -96,7 +96,3 @@ To keep the bot running in the background:
     sudo systemctl enable beszel-bot
     sudo systemctl start beszel-bot
     ```
-
-## Screenshots
-
-*(You can add screenshots of your bot messages here)*

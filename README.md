@@ -20,7 +20,7 @@ This bot acts as a bridge between Beszel webhooks and Telegram, providing format
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/beszel-telegram-bot.git](https://github.com/YOUR_USERNAME/beszel-telegram-bot.git)
+    git clone [https://github.com/bayroqdor/beszel-telegram-bot.git](https://github.com/bayroqdor/beszel-telegram-bot.git)
     cd beszel-telegram-bot
     ```
 
